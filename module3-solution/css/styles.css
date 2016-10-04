@@ -1,0 +1,49 @@
+body {
+	font-size: 16px;
+	font-family: 'David Libre', serif;
+	background-color: #E0FFFF;
+}
+#header-nav {
+	border: 0;
+	border-radius: 0;
+	background-color: #DEB887;
+	margin-bottom: 35px;
+}
+
+.navbar-brand {
+	height: 100px;
+	/*padding: 0;*/
+}
+.navbar-brand h1 {
+	font-family: 'Baloo Bhaina', cursive;
+	font-size: 2.5em;
+	color: #8B0000;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-bottom: 0;
+    line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#main-content .section {
+	height: 750px;
+	background-color: #DEB887;
+	margin: 10px;
+	padding: 10px;
+}
+#main-content h3 {
+	color: #DC143C;
+}
+#main-content p {
+	color: #8B008B;
+}
+#nav-list a {
+	color: #951C49;
+	text-align: center;
+}
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+
+/************* large devices *************/
