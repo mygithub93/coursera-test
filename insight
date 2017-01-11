@@ -1,0 +1,6 @@
+There are 300-400 mappings are being developed. After that let say there are few session properties needs to be changed(client's requirement).
+Normally, we put more resources each changing certain number of mapping so that work can be completed ASAP. The same thing can be done in following ways.
+1.export the XML of all mappings at once.
+2.write a macro in excel that will run through the exported xml file. Using a Regex it will find the specific session properties and replace it with required properties value.
+3.Re import the XML and you are done.
+A work that would require certain number of resources and days can be done 20-30 minutes.
