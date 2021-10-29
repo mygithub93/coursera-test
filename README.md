@@ -1,2 +1,2 @@
 # coursera-test
-coursera hands on
+coursera hands on exercises
